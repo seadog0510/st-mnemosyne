@@ -1,0 +1,12 @@
+{
+  "display_name": "记忆之忆 Mnemosyne",
+  "loading_order": 10,
+  "requires": [],
+  "optional": [],
+  "js": "index.js",
+  "css": "style.css",
+  "author": "Lotus Eater",
+  "version": "0.1.0",
+  "homePage": "https://github.com/your-username/st-mnemosyne",
+  "auto_update": true
+}
